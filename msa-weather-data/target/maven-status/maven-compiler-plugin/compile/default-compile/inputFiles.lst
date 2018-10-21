@@ -1,0 +1,8 @@
+/Users/gniu/Workspaces/msa-weather-report/msa-weather-data/src/main/java/me/yekki/weather/config/RestConfiguration.java
+/Users/gniu/Workspaces/msa-weather-report/msa-weather-data/src/main/java/me/yekki/weather/controller/TestController.java
+/Users/gniu/Workspaces/msa-weather-report/msa-weather-data/src/main/java/me/yekki/weather/service/WeatherDataCollectionService.java
+/Users/gniu/Workspaces/msa-weather-report/msa-weather-data/src/main/java/me/yekki/weather/job/WeatherDataSyncJob.java
+/Users/gniu/Workspaces/msa-weather-report/msa-weather-data/src/main/java/me/yekki/weather/service/impl/WeatherDataCollectionServiceImpl.java
+/Users/gniu/Workspaces/msa-weather-report/msa-weather-data/src/main/java/me/yekki/weather/DataCollectionApp.java
+/Users/gniu/Workspaces/msa-weather-report/msa-weather-data/src/main/java/me/yekki/weather/service/CityClient.java
+/Users/gniu/Workspaces/msa-weather-report/msa-weather-data/src/main/java/me/yekki/weather/config/QuartzConfiguration.java

@@ -1,0 +1,10 @@
+me/yekki/weather/vo/Yeaterday.class
+me/yekki/weather/vo/WeatherResponse.class
+me/yekki/weather/common/Constants.class
+me/yekki/weather/exceptions/ConvertXMLToObjectException.class
+me/yekki/weather/utils/XmlBuilder.class
+me/yekki/weather/vo/City.class
+me/yekki/weather/vo/Weather.class
+me/yekki/weather/exceptions/LoadCityDataException.class
+me/yekki/weather/vo/Forecast.class
+me/yekki/weather/vo/CityList.class

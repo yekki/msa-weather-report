@@ -1,0 +1,6 @@
+me/yekki/weather/config/RestConfiguration.class
+me/yekki/weather/service/WeatherDataService.class
+me/yekki/weather/APIApp.class
+me/yekki/weather/controller/WeatherController.class
+me/yekki/weather/service/impl/WeatherDataServiceImpl.class
+me/yekki/weather/config/SwaggerConfiguration.class

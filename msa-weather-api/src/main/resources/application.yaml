@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: weather-api
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://gniu-pro:8761/eureka/
+  instance:
+    hostname: gniu-pro
+    prefer-ip-address: true
+server:
+  port: 8003

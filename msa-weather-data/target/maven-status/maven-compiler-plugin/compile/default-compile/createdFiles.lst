@@ -1,0 +1,8 @@
+me/yekki/weather/service/impl/WeatherDataCollectionServiceImpl.class
+me/yekki/weather/config/RestConfiguration.class
+me/yekki/weather/job/WeatherDataSyncJob.class
+me/yekki/weather/service/CityClient.class
+me/yekki/weather/controller/TestController.class
+me/yekki/weather/config/QuartzConfiguration.class
+me/yekki/weather/DataCollectionApp.class
+me/yekki/weather/service/WeatherDataCollectionService.class
